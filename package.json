@@ -1,0 +1,22 @@
+{
+  "name": "polling-mode",
+  "version": "1.0.0",
+  "description": "achive the function of polling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxMin-sheeper/polling-mode.git"
+  },
+  "keywords": [
+    "13453045245Liumin"
+  ],
+  "author": "liumin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxMin-sheeper/polling-mode/issues"
+  },
+  "homepage": "https://github.com/MaxMin-sheeper/polling-mode#readme"
+}
